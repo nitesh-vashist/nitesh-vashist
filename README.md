@@ -40,8 +40,8 @@
 
 ### 🧩 Featured Projects
 
-- **GPUverse (Hackathon Project)**  
-  Decentralized GPU rental marketplace using MERN + Web3. Enabled secure ETH payments, SSH access, and provider/renter dashboards.  
+- **GPUverse**  
+  Decentralized GPU rental marketplace using MERN + Web3. Enabled secure ERC-20 payments, SSH access, and provider/renter dashboards.  
   _Role: Backend Developer_
 
 - **Wanderlust**  
@@ -56,7 +56,6 @@
 ### ✨ Achievements
 
 - 🥈 Silver Medalist in Chess at College Sports Day  
-- 👨‍🏫 Technical blogger and prompt engineer  
 - 💼 Completed multiple internships and hands-on dev experiences  
 - 🧠 Fast-paced learner — taught myself full MERN stack & built live projects
 
