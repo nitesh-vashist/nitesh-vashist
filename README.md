@@ -7,40 +7,70 @@
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently building **real-world projects using the MERN stack**
-- 🧠 I’m learning **n8n, NestJS, Web3 & AI integrations**
-- 👯 I’m looking to collaborate on **innovative full stack and blockchain projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Web3, DSA**
-- 🎯 Career Goal: **To build scalable digital products that solve real-world problems**
-- 🧩 Fun fact: I love chess, football, and exploring new tech!
+
+### 🚀 About Me
+
+- 👨‍💻 B.Tech CST student at MAIT, GGSIPU (9.4 GPA)
+- 🌐 Full-stack developer with a strong grasp of React, Node.js, and MongoDB
+- 🔗 Exploring Blockchain and Web3 technologies (Solidity, Web3.js)
+- 🛠️ Fast learner with a problem-solving mindset and love for clean, scalable code
+- 🧠 Interested in building impactful tech solutions that bridge gaps in real-world systems
+- 🎯 Always up for a hackathon or collaborative dev sprint!
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github,tailwind,bootstrap,figma,solidity,firebase,typescript,c,cpp,java,python" />
-</p>
+**Languages:**  
+`C` `C++` `JavaScript` `Python` `HTML` `CSS` `Java`
+
+**Frameworks & Libraries:**  
+`React.js` `Next.js` `Node.js` `Express.js` `Tailwind CSS` `Redux` `Zustand` `Bootstrap` `Material UI`
+
+**Backend & Databases:**  
+`MongoDB` `PostgreSQL` `Firebase` `REST APIs` `Prisma`
+
+**Blockchain:**  
+`Solidity (basic)` `Web3.js`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Postman` `Vercel` `Netlify` `VS Code` `n8n`
 
 ---
 
-### 📊 GitHub Stats
+### 🧩 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshvashist&show_icons=true&theme=react&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshvashist&layout=compact&theme=react" height="180"/>
-</p>
+- **GPUverse (Hackathon Project)**  
+  Decentralized GPU rental marketplace using MERN + Web3. Enabled secure ETH payments, SSH access, and provider/renter dashboards.  
+  _Role: Backend Developer_
+
+- **Wanderlust**  
+  Airbnb-like booking platform with EJS templating, authentication, dynamic listings, and Razorpay integration.
+
+
+
+> _Explore my [Repositories](https://github.com/nitesh-vashist) for more._
 
 ---
 
-### 🌐 Connect with Me
+### ✨ Achievements
 
-<p>
-  <a href="https://www.linkedin.com/in/niteshvashist/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:niteshvashist0001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+- 🥈 Silver Medalist in Chess at College Sports Day  
+- 👨‍🏫 Technical blogger and prompt engineer  
+- 💼 Completed multiple internships and hands-on dev experiences  
+- 🧠 Fast-paced learner — taught myself full MERN stack & built live projects
 
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-vashist)
+- 📬 Email: niteshvashist@gmail.com  
+- 💡 Open to collaboration, internships, and freelance gigs
+
+---
+
+_“The best way to learn is to build.”_
 
 
 <!--
