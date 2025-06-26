@@ -64,7 +64,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh-vashist)
-- 📬 Email: niteshvashist@gmail.com  
+- 📬 Email: niteshvashist17@gmail.com  
 - 💡 Open to collaboration, internships, and freelance gigs
 
 ---
